@@ -11,7 +11,7 @@ Where:
 - **R** = Annual rate of interest (percentage)
 
 
-## 🚀 Usage
+Usage
 
 1. Clone this repository:
    ```bash
