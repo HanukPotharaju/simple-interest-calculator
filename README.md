@@ -1,3 +1,7 @@
+## Prerequisites
+- Linux/macOS with Bash installed
+- Git installed
+
 # Simple Interest Calculator
 
 This project provides a simple Bash script to calculate **Simple Interest** based on the given **Principal Amount, Rate of Interest, and Time Period**.
